@@ -1,6 +1,6 @@
 # Sale-and-Shipment-Analysis
 ![](images/sale_logistics.jpg)
-## 1. Introduction
+## 1. Abstract
 This dashboard presents key insights, offering a comprehensive overview of sales and shipment performance in Power BI.
   - The Sales Performance Dashboard showcases sales trends over recent years while providing detailed insights into the sales team's performance. Track employee progress and performance through Year-over-Year (YoY) reports on top-performing sales executives, measured by revenue generated and units sold. Additionally, analyze individual sales locations using interactive maps, covering countries and top regional customers.
 
