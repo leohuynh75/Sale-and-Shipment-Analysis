@@ -43,7 +43,7 @@ To facilitate the analysis of sales and shipment performance in different scenar
 ## 5. Dashboard
 ### Sales performance analysis
 ![](images/sale_analysis.png)
-Here are some noticeable details in this analysis:
+Here are some insights in this analysis:
   - **Total Revenue** was **$1.27M**, with an **AOV** of **$1.53K** and a total of **830** orders
   - Revenue has been trending up over time, with some small dips but quickly recovering
   - Top 3 revenue earners: Margaret Peacock, Janet Leverling, and Nancy Davolio contribute significantly to total revenue
@@ -61,7 +61,7 @@ Here are some noticeable details in this analysis:
  - Late delivery trends over time:
    - The rate of late orders fluctuated from month to month, with some periods showing a spike.
    - Factors such as peak seasonality, warehouse capacity, or individual carrier performance may be considered.
-### Recommendations
+### Actionable insights
 - Optimize the sales process, specifically:
   - Focus on supporting low-revenue sale teams to improve performance.
   - Maintain retention programs while continuing to expand the customer base.
