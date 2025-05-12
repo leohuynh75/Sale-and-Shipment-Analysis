@@ -1,4 +1,4 @@
-# Sale-and-Shipment-Analysis
+# Sales-and-Shipment-Analysis
 ![](images/sale_logistics.jpg)
 ## 1. Abstract
 This dashboard presents key insights, offering a comprehensive overview of sales and shipment performance in Power BI.
